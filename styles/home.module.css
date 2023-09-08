@@ -1,0 +1,23 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  max-width: 800px;
+  text-align: center;
+}
+
+.content h1 {
+  margin-bottom: 16px;
+}
+
+.content p {
+  font-size: 18px;
+}
+
+.phrase {
+  margin-bottom: 16px;
+}
